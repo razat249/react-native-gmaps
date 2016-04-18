@@ -4,7 +4,7 @@ A (currently) very lightweight implementation of Google Maps for Android.
 
 ### Example Map
 
-Your build your map with the following properties; they are all optional (it will default to simply zooming in on london without any props) apart from you must define a style with 'height' and 'width'.
+You build your map with the following properties; they are all optional (it will default to simply zooming in on london without any props) apart from you must define a style with 'height' and 'width'.
 
 ``` js
 let RNGMap = require('react-native-gmaps');
